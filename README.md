@@ -1,2 +1,2 @@
-# CP3-Napatsawan-Satasin
+# Learning Python from BorntoDev's course.
  
